@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 qwtel:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Kamal> <Saleh>
+  email:             <saleh@mathematik.uni-siegen.de>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -26,8 +26,8 @@ qwtel:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    # facebook:        <username>
-    twitter:         <username>
+    facebook:        https://www.facebook.com
+    #twitter:         <username>
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -50,7 +50,7 @@ qwtel:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          <username>
+    github:            https://github.com/kamalsaleh
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -61,13 +61,13 @@ qwtel:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:<mail@domain.tld>
+    email:           mailto:<saleh@mathematik.uni-siegen.de>
     rss:             https://<url>/feed.xml
 
 # Another author
 mdo:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <firtname> <Saleh>
+  email:             <saleh@mathematik.uni-siegen.de>
   about:             |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
